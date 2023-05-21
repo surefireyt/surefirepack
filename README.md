@@ -7,3 +7,4 @@
 - Sky/glint: https://www.youtube.com/@Leowook
 - Redstone: https://github.com/Xyverle/MattPack
 - Wool: https://www.planetminecraft.com/texture-pack/wool-for-redstone-engineers/
+- panorama: https://modrinth.com/resourcepack/1.19-panorama-shaders/version/WDIK23A2
