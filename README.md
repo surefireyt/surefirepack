@@ -1,6 +1,6 @@
 # SureFire's Pack
 
-## Sources
+## Credits
 - 3D crystal & cobweb: https://github.com/fedpol1/mc-resource-packs/tree/master, https://vanillaplus.net
 - Dark Mode: https://www.curseforge.com/minecraft/texture-packs/default-dark-mode
 - Hud inventory: https://www.curseforge.com/minecraft/texture-packs/austs-custom-gui
